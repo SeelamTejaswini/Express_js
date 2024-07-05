@@ -1,0 +1,11 @@
+{
+  "name": "express_tutorial",
+  "version": "1.0.0",
+  "description": "this is express js trying",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tejaswini",
+  "license": "ISC"
+}
