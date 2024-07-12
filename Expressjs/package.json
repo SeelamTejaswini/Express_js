@@ -1,0 +1,15 @@
+{
+  "name": "suretrust",
+  "version": "1.0.0",
+  "description": "Express js teaching in sure trust",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "author": "Tejaswini",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.0"
+  }
+}
